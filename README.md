@@ -31,7 +31,7 @@ It focuses on creating a smooth and simple onboarding experience for new users.
 - Figma
 
 ## 🔗 Figma Link
-(Add your Figma link here)
+https://github.com/sindhujareddybasireddy-sketch/ui-ux-internship-tasks-
 
 ## 📌 Outcome
 - Learned user onboarding flow design
