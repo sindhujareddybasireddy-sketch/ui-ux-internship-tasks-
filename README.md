@@ -21,7 +21,7 @@ Designed a smooth and user-friendly onboarding experience for a health and fitne
 https://github.com/your-username/ui-ux-internship-tasks/tree/main/Healthify-Auth-Flow
 
 #### 🔗 Figma Link
-(Add your Figma link here)
+https://www.figma.com/design/RBAP8nm1uk3KQnm3LrqKWV/mobile-app-signup-flow?node-id=0-1&m=dev&t=31o4yyWDo9211TFx-1
 
 ---
 
@@ -38,7 +38,7 @@ Created a modern and engaging landing page to showcase the app’s features and 
 https://github.com/your-username/ui-ux-internship-tasks/tree/main/Healthify-Landing-Page
 
 #### 🔗 Figma Link
-(Add your Figma link here)
+https://www.figma.com/design/2Z6qoGgCVeRl6Fu300800g/email-layout?m=auto&t=31o4yyWDo9211TFx-6
 
 ---
 
@@ -56,7 +56,7 @@ Designed a complete food ordering mobile application UI covering the full user j
 https://github.com/your-username/ui-ux-internship-tasks/tree/main/Foodie-Hub-App
 
 #### 🔗 Figma Link
-(Add your Figma link here)
+https://www.figma.com/design/pUSCbdkLXTmZCRj22c8W5t/restaurant-task3?m=auto&t=31o4yyWDo9211TFx-6
 
 ---
 
