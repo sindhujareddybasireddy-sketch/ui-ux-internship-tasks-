@@ -1,39 +1,79 @@
-# 🟢 Healthify – Authentication Flow UI
+# 🎨 UI/UX Internship Tasks
 
-## 📌 Description
-This project presents the user authentication flow for a health and fitness mobile application called **Healthify**.  
-It focuses on creating a smooth and simple onboarding experience for new users.
+This repository contains my UI/UX design work completed as part of my internship.  
+The projects focus on creating clean, user-friendly, and visually appealing mobile and web interfaces.
 
-## 🎯 Features
-- Welcome screen with "Get Started"
-- Multiple signup options:
-  - Continue with Google
-  - Continue with Email
-  - Continue with Phone
+---
+
+## 📱 Projects Overview
+
+### 🟢 1. Healthify – Authentication Flow
+Designed a smooth and user-friendly onboarding experience for a health and fitness app.
+
+#### 🔹 Features
+- Welcome screen
+- Multiple signup options (Google, Email, Phone)
 - User registration form
-- Email OTP verification
+- OTP verification
 - Account creation success screen
 
-## 🖼️ Screens
-1. Welcome Screen  
-2. Signup Options  
-3. Sign Up Form  
-4. OTP Verification  
-5. Success Screen  
+#### 🔗 View Project
+https://github.com/your-username/ui-ux-internship-tasks/tree/main/Healthify-Auth-Flow
 
-## 🎨 Design Highlights
-- Clean and minimal UI
-- Soft green color theme (health-focused)
-- Consistent layout and spacing
-- Easy-to-use form inputs
+#### 🔗 Figma Link
+(Add your Figma link here)
+
+---
+
+### 🟢 2. Healthify – Landing Page
+Created a modern and engaging landing page to showcase the app’s features and attract users.
+
+#### 🔹 Features
+- Hero section with app introduction
+- Feature highlights (Workouts, Nutrition, Tracking)
+- Call-to-action button
+- Clean layout and structure
+
+#### 🔗 View Project
+https://github.com/your-username/ui-ux-internship-tasks/tree/main/Healthify-Landing-Page
+
+#### 🔗 Figma Link
+(Add your Figma link here)
+
+---
+
+### 🍔 3. Foodie Hub – Food Ordering App
+Designed a complete food ordering mobile application UI covering the full user journey.
+
+#### 🔹 Features
+- Splash screen
+- Home page with categories
+- Product detail page
+- Cart system
+- Order success screen
+
+#### 🔗 View Project
+https://github.com/your-username/ui-ux-internship-tasks/tree/main/Foodie-Hub-App
+
+#### 🔗 Figma Link
+(Add your Figma link here)
+
+---
 
 ## 🛠️ Tools Used
 - Figma
+- Canva (if used)
 
-## 🔗 Figma Link
-https://github.com/sindhujareddybasireddy-sketch/ui-ux-internship-tasks-
+---
 
-## 📌 Outcome
-- Learned user onboarding flow design
-- Improved UI consistency skills
-- Understood form and authentication UX
+## 🎯 Learning Outcomes
+- Improved UI/UX design skills  
+- Learned user flow and interaction design  
+- Built structured and consistent UI layouts  
+- Gained hands-on experience with real-world app designs  
+
+---
+
+## 📌 Note
+Each project folder contains detailed design screens and assets.  
+Figma links are provided for better interaction and prototype viewing.
